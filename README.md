@@ -1,2 +1,2 @@
 # ExamPrep
-A WAEC exam preparation platform developed by students I mentored using Python and Streamlit.
+An educational technology project developed by students under my mentorship, using Python and Streamlit to provide interactive WAEC exam practice, automated assessment, feedback, and performance tracking.
